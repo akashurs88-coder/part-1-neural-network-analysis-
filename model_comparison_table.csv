@@ -1,0 +1,4 @@
+Experiment,Change Made,Accuracy,Observation
+Experiment 1,Default model,0.85,Baseline peformance
+Experiment 2,Increased neuron,0.88,Better learning
+Experiment 3,Increased epochs,0.89,Higher accuracy but slight overfitting
